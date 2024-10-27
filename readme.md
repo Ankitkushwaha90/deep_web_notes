@@ -8,3 +8,7 @@ https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac
 ```cmd
 thehiddenwiki
 ```
+```cmd
+tor
+tail os
+```
